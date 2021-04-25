@@ -33,7 +33,7 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source-directory: 'build'
-          target-directory: 'chapters'
+          target-directory: 'public/chapters'
           destination-github-username: 'Legend-of-Byron'
           destination-repository-name: 'legend-of-byron.github.io'
           user-email: velberhand@protonmail.com
