@@ -1,7 +1,4 @@
 const fs = require('fs');
-
-console.log(process.argv);
-
 const args = process.argv.slice(2);
 const NB_ARGS_PER_CHAPTER = 3;
 const chaptersMetadata = [];
