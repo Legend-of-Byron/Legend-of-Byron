@@ -11,7 +11,6 @@ for(let i = 0; i < args.length; i += NB_ARGS_PER_CHAPTER) {
     }
 
     const [prefix, chapterNumber, title, status] = filename.split('__');
-    console.log(filename, prefix, chapterNumber, title, status)
     chaptersMetadata.push({
         order: Number(chapterNumber),
         title: title.replace(/_/g, ' '),
