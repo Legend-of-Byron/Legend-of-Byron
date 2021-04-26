@@ -8,8 +8,6 @@ const imagelistMap = new Map(fs
     .split('\n')
     .map(row => row.split(',')));
 
-console.log(Array.from(imagelistMap.entries()));
-
 for(let i = 0; i < args.length; i += NB_ARGS_PER_CHAPTER) {
     const [filename, createdAt, updatedAt] = args.slice(i, i + NB_ARGS_PER_CHAPTER);
 
