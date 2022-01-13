@@ -8,4 +8,10 @@ Running had become a way of release from his everyday computer engineering job. 
 
 "Caw caw" some crows went after seeing him. 'Such intelligent creatures, having a scavenger like mentality is definitely the way to survive in a harsh environment'.
 
-After arriving back to his apartment located at the outskirts of the small city he lived in, he took a shower before afternoon work began. He worked remotely from his home office.
+After arriving back to his apartment located at the outskirts of the small city he lived in, he took a shower before having lunch. He opened an app and started listening to the latest news while preparing some food.
+
+"[...] You're absolutely right John, there's only a minority left that still remain unprotected. The minister has decided to take the ncessary actions to [...]" the presentator said before Byron annoyingly changed the video.
+
+"[...] Path of God, using the new Deep Dive Technology (DDT), will be coming out tonight at midnight. [...]"
+
+
