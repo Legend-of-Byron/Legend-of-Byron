@@ -12,6 +12,8 @@ After arriving back to his apartment located at the outskirts of the small city 
 
 "[...] You're absolutely right John, there's only a minority left that still remain unprotected. The minister has decided to take the ncessary actions to [...]" the presentator said before Byron annoyingly changed the video.
 
-"[...] Path of God, using the new Deep Dive Technology (DDT), will be coming out tonight at midnight. [...]"
+"[...] Path of God, using the new Deep Dive Technology (DDT), will be coming out tonight at midnight. [...]" Byron listened attentively and felt deep excitement for the announcement. He had been actively following up on any news regarding this game. It had been in development for years by a discreet company called Tempest and finally after extreme patience they announced a release date six months ago.
+
+Byron used his savings to buy the new DDT sleep device.
 
 
