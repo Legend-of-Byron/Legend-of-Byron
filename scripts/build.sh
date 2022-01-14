@@ -8,7 +8,7 @@ mkdir $dir/build
 for filepath in ./chapters/*.md
 do
     updatedAt=$(git log -1 --pretty="format:%cI" $filepath)
-    createdAt=$(git log --diff-filter=A --follow --format=%cI -1 -- $filepath)
+    createdAt=$(git log --reverse --pretty="format:%cI" $filepath | head -1)
     filename=$(basename -- "$filepath")
     filename_with_no_extension="${filename%.*}"
     filename_with_no_status="${filename_with_no_extension%__*}"
