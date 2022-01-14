@@ -8,12 +8,16 @@ Running had become a way of release from his everyday computer engineering job. 
 
 "Caw caw" some crows went after seeing him. 'Such intelligent creatures, having a scavenger like mentality is definitely the way to survive in a harsh environment'.
 
-After arriving back to his apartment located at the outskirts of the small city he lived in, he took a shower before having lunch. He opened an app and started listening to the latest news while preparing some food.
+After arriving back to his apartment located at the outskirts of the small city he lived in, he took a shower before having lunch. He took out his phone, placed it on the kitchen counter top and started listening to the latest news while preparing some food.
 
 "[...] You're absolutely right John, there's only a minority left that still remain unprotected. The minister has decided to take the ncessary actions to [...]" the presentator said before Byron annoyingly changed the video.
 
-"[...] Path of God, using the new Deep Dive Technology (DDT), will be coming out tonight at midnight. [...]" Byron listened attentively and felt deep excitement for the announcement. He had been actively following up on any news regarding this game. It had been in development for years by a discreet company called Tempest and finally after extreme patience they announced a release date six months ago.
+"[...] Path of God, using the new Deep Dive Technology (DDT), will be coming out tonight at midnight. [...]" 
 
-Byron used his savings to buy the new DDT sleep device.
+'Now, we're talking' Byron thought while listened attentively and felt deep excitement for the announcement. He had been actively following up on any news regarding this game. It had been in development for years by a discreet company called Tempest and finally after extreme patience they announced a release date six months ago.
+
+Byron always held great respect for Tempest. They were privately owned and self funded which was something of a breath of fresh air to extremely greedy gaming companies. The gaming industry had been expanding quickly, becoming a trillion dollar industry. A trillion dollar industry with no proper games.
+
+After lunch, Byron went to his room. Inside he had recently had installed the new DDTSD.
 
 
